@@ -517,8 +517,16 @@
       "PackagePath": "staticwebassets\\assets\\images\\lightbox\\thumb-v-y-2.jpg"
     },
     {
+      "Id": "C:\\Users\\le-fr\\Desktop\\ETC\\PROGRAMAS\\PIXELSTOCK2\\PixelStock\\PixelStock\\wwwroot\\assets\\images\\logo-mini.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-mini.png"
+    },
+    {
       "Id": "C:\\Users\\le-fr\\Desktop\\ETC\\PROGRAMAS\\PIXELSTOCK2\\PixelStock\\PixelStock\\wwwroot\\assets\\images\\logo-mini.svg",
       "PackagePath": "staticwebassets\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\le-fr\\Desktop\\ETC\\PROGRAMAS\\PIXELSTOCK2\\PixelStock\\PixelStock\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
     },
     {
       "Id": "C:\\Users\\le-fr\\Desktop\\ETC\\PROGRAMAS\\PIXELSTOCK2\\PixelStock\\PixelStock\\wwwroot\\assets\\images\\logo.svg",

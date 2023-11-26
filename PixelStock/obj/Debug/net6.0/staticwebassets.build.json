@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/Q8VuGEB0CRdv7mrkXhCR3yXWegx1x2tp6YJY0Ao4h8=",
+  "Hash": "pmwqJTfiOCAS2caJ4a3aTPtXEkuk4mtVUgyQdTyXiSI=",
   "Source": "PixelStock",
   "BasePath": "_content/PixelStock",
   "Mode": "Default",
@@ -2227,6 +2227,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\lightbox\\thumb-v-y-2.jpg"
     },
     {
+      "Identity": "C:\\Users\\le-fr\\Desktop\\ETC\\PROGRAMAS\\PIXELSTOCK2\\PixelStock\\PixelStock\\wwwroot\\assets\\images\\logo.png",
+      "SourceId": "PixelStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\le-fr\\Desktop\\ETC\\PROGRAMAS\\PIXELSTOCK2\\PixelStock\\PixelStock\\wwwroot\\",
+      "BasePath": "_content/PixelStock",
+      "RelativePath": "assets/images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
+    },
+    {
       "Identity": "C:\\Users\\le-fr\\Desktop\\ETC\\PROGRAMAS\\PIXELSTOCK2\\PixelStock\\PixelStock\\wwwroot\\assets\\images\\logo.svg",
       "SourceId": "PixelStock",
       "SourceType": "Discovered",
@@ -2242,6 +2259,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.svg"
+    },
+    {
+      "Identity": "C:\\Users\\le-fr\\Desktop\\ETC\\PROGRAMAS\\PIXELSTOCK2\\PixelStock\\PixelStock\\wwwroot\\assets\\images\\logo-mini.png",
+      "SourceId": "PixelStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\le-fr\\Desktop\\ETC\\PROGRAMAS\\PIXELSTOCK2\\PixelStock\\PixelStock\\wwwroot\\",
+      "BasePath": "_content/PixelStock",
+      "RelativePath": "assets/images/logo-mini.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\logo-mini.png"
     },
     {
       "Identity": "C:\\Users\\le-fr\\Desktop\\ETC\\PROGRAMAS\\PIXELSTOCK2\\PixelStock\\PixelStock\\wwwroot\\assets\\images\\logo-mini.svg",
